@@ -41,6 +41,7 @@ In this program, we will use Python to explore datasets, build predictive models
 The curriculum materials for this course are written in Python 3.6.
 
 ---
+
 <a id='team'></a>
 ## Your Instructional Team
 
@@ -62,8 +63,8 @@ General Assembly's Data Science part time materials are organized into **four** 
 | Unit 3 | Data Science Modeling          | Regression, Classification, & KNN      | Lessons 10-14  | 
 | Unit 4 | Data Science Applications      | Decision Trees, NLP, & Flex Topics     | Lessons 15-19  | 
 
----
 
+---
 
 <a id='schedule'></a>
 ## Lesson Schedule
@@ -96,7 +97,7 @@ FLEX: Instructor Choice                         | Unit 4 | Session 18 |
 FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | 
 [Final Project Presentations][1-1T]             | Unit 4 | Session 20 | 
 
-[1-1A]: https://git.generalassemb.ly/data-part-time/welcome-to-data-science
+[1-1A]: ./required/welcome-to-data-science/
 [1-1B]: https://git.generalassemb.ly/data-part-time/your-development-environment
 [1-1C]: https://git.generalassemb.ly/data-part-time/python-foundations
 
