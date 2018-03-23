@@ -18,7 +18,7 @@ Questions? Comments?
 | --- | --- | --- |
 | Lesson | Robust Regression Lesson | [Link](./robust-regression.ipynb)|
 | Activity | Robust Regression Activity | [Link](./baltimore-salaries-lab.ipynb)|
-| Data Set | Lemonade Data Used in Lesson | [Link](./lemonade-stand.csv)|
+| Data Set | Lemonade Data Used in Lesson | [Link](./data/lemonade-stand.csv)|
 | Data Set | Baltimore City Employee Salaries Used in Activity | [Link](./datasets/Baltimore_City_Employee_Salaries_2011.csv)|
 | Solutions | Sample Solutions to Activity | [Link](./solution-code/baltimore-salaries-lab.ipynb)|
 
