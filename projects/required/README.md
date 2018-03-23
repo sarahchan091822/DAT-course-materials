@@ -17,7 +17,7 @@
 [2-1C]: ./project-housing-data/
 [2-1D]: ./project-final/
 
-===
+---
 
 ## Project Structure
 
