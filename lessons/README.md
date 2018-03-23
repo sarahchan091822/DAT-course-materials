@@ -4,7 +4,7 @@
 <a id='course'></a>
 ## Curriculum Structure
 
-General Assembly's Data Science part time materials are organized into **four** units.
+General Assembly's Data Science part time materials are organized into four units.
 
 | Unit   | Title  | Topics Covered  | Length | 
 | ---    | ---    |  ---     | ---    |
@@ -65,3 +65,24 @@ FLEX: Review + Project Workshop                 | Unit 4 | Session 19 |
 [1-1Q]: ./required/time-series-data/
 
 [1-1T]: ../projects/required/project-final/
+
+
+---
+
+### Flex Topics
+
+Flex sessions are designed to provide your class with time to catch up, review materials, ask questions, work on projects, or go deeper into specific topic areas.
+
+Later in the course, instructors may optionally choose to cover additional topics, depending on the needs of your course. Some examples include:
+
+Title  | 
+--- | 
+[Clustering][2-1A]       
+[Decision Trees][2-1B]       
+[Robust Regression][2-1C] 
+[Deploying Models with Flask][2-1D]
+
+[2-1A]: ./optional/clustering/
+[2-1B]: ./optional/decision-trees/
+[2-1C]: ./optional/robust-regression/
+[2-1D]: ./optional/deploying-models-flask/
