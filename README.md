@@ -81,7 +81,7 @@ FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 |
 [Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | 
 [Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 6 | 
 [Data Visualization in Python][1-1G]            | Unit 2 | Session 7 | 
-[Statistics Review][1-1H]                       | Unit 2 | Session 8 | 
+[Statistics in Python][1-1H]                    | Unit 2 | Session 8 | 
 FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | 
 --- | ---  | ---  |
 [Linear Regression][1-1J]                       | Unit 3 | Session 10 | 
@@ -97,25 +97,25 @@ FLEX: Instructor Choice                         | Unit 4 | Session 18 |
 FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | 
 [Final Project Presentations][1-1T]             | Unit 4 | Session 20 | 
 
-[1-1A]: ./required/welcome-to-data-science/
-[1-1B]: https://git.generalassemb.ly/data-part-time/your-development-environment
-[1-1C]: https://git.generalassemb.ly/data-part-time/python-foundations
+[1-1A]: ./lessons/required/welcome-to-data-science/
+[1-1B]: ./lessons/required/development-environment/
+[1-1C]: ./lessons/required/python-foundations/
 
-[1-1E]: https://git.generalassemb.ly/data-part-time/exploratory-data-analysis
-[1-1F]: https://git.generalassemb.ly/data-part-time/experiments-hypothesis-tests
-[1-1G]: https://git.generalassemb.ly/data-part-time/visualizations
-[1-1H]: https://git.generalassemb.ly/data-part-time/statistics-review
+[1-1E]: ./lessons/required/exploratory-data-analysis/
+[1-1F]: ./lessons/required/experiments-hypothesis-tests/
+[1-1G]: ./lessons/required/data-visualization/
+[1-1H]: ./lessons/required/statistics-refresher/
 
-[1-1J]: https://git.generalassemb.ly/data-part-time/linear-regression
-[1-1K]: https://git.generalassemb.ly/data-part-time/train-test-split-and-bias-variance
-[1-1L]: https://git.generalassemb.ly/data-part-time/knn-classification
-[1-1M]: https://git.generalassemb.ly/data-part-time/logistic-regression
+[1-1J]: ./lessons/required/linear-regression/
+[1-1K]: ./lessons/required/train-test-split-bias-variance/
+[1-1L]: ./lessons/required/knn-classification/
+[1-1M]: ./lessons/required/logistic-regression/
 
-[1-1O]: https://git.generalassemb.ly/data-part-time/getting-data-APIs
-[1-1P]: https://git.generalassemb.ly/data-part-time/natural-language-processing
-[1-1Q]: https://git.generalassemb.ly/data-part-time/flex_time-series
+[1-1O]: ./lessons/required/working-with-api-data/
+[1-1P]: ./lessons/required/natural-language-processing/
+[1-1Q]: ./lessons/required/time-series-data/
 
-[1-1T]: https://git.generalassemb.ly/data-part-time/unit-4_project
+[1-1T]: ./projects/required/project-final/
 
 ---
 
@@ -132,7 +132,7 @@ For those of you who want to go above and beyond, we’ve also included stretch 
 
 ### Final Project
 
-You'll also complete a [final project](https://git.generalassemb.ly/data-part-time/unit-4_project), asking you to apply your skills to a real-world or business problem of your choice.
+You'll also complete a [final project](./projects/required/project-final/), asking you to apply your skills to a real-world or business problem of your choice.
 
 The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your life, industry, or organization. You’ll create a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
 
@@ -156,10 +156,10 @@ You will get structured guidance and designated time to work throughout the cour
     - Part 3: Technical Report
     - Part 4: Presentation
 
-[2-1A]:  https://git.generalassemb.ly/data-part-time/unit-1_project
-[2-1B]:  https://git.generalassemb.ly/data-part-time/unit-2_project
-[2-1C]:  https://git.generalassemb.ly/data-part-time/unit-3_project
-[2-1D]:  https://git.generalassemb.ly/data-part-time/unit-4_project
+[2-1A]: ./projects/required/project-code-challenge/
+[2-1B]: ./projects/required/project-eda-options/
+[2-1C]: ./projects/required/project-housing-data/
+[2-1D]: ./projects/required/project-final/
 
 ---
 
@@ -216,7 +216,7 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 <a id='expectations'></a>
 ## Expectations
 
-[Add specific local market attendance, student policy, and parking expectations here]
+[Add specific local market attendance, student policy, and parking expectations here](X)
 
 ---
 
@@ -236,6 +236,6 @@ Slack us or post in our #officehours channel to reserve a time-slot!
 
 Throughout the course, you'll be asked to provide feedback about your experience. This feedback is extremely important, as it helps us provide you with a better learning experience.
 
-[Insert specific VTS/Exit Ticket details here]
+[Insert specific VTS/Exit Ticket details here](X)
 
 ---
