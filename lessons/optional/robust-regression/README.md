@@ -20,7 +20,7 @@ Questions? Comments?
 | Activity | Robust Regression Activity | [Link](./baltimore-salaries-lab.ipynb)|
 | Data Set | Lemonade Data Used in Lesson | [Link](./data/lemonade-stand.csv)|
 | Data Set | Baltimore City Employee Salaries Used in Activity | [Link](./data/Baltimore_City_Employee_Salaries_2011.csv)|
-| Solutions | Sample Solutions to Activity | [Link](./solution-code/baltimore-salaries-lab.ipynb)|
+| Solutions | Sample Solutions to Activity | [Link](./solution-code/baltimore-salaries-lab-solutions.ipynb)|
 
 
 > **Data description**: `lemonade-stand.csv` is a data set of lemonade sales and their relationship to temperature and humidity. The Baltimore City Employee Salaries data is pretty self-explanatory.
