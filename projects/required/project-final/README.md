@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Requirements | Final project deliverable descriptions | [Here](./requirements.md) |
-| Suggestions | Curated project dataset suggestions  | [Here](./datasets.md) |
+| Suggestions | Curated project dataset suggestions  | [Here](./suggestions.md) |
 
 > Note: Due to variability in student project selection, sample solutions are not provided. However, you can find a wide range of prior project examples in our [GA Gallery](https://gallery.generalassemb.ly/DS?metro=).
 
@@ -33,7 +33,7 @@ You will get structured guidance and designated time to work throughout the cour
 ## Project Resources
 
 * [Check out our requirements doc](./requirements.md) for a detailed walkthrough of our final project deliverable requirements. 
-* If you're looking for final project ideas, [check out this list of ideas](./datasets.md) curated from successful past projects.
+* If you're looking for final project ideas, [check out this list of ideas](./suggestions.md) curated from successful past projects.
 
 ---
 
