@@ -6,8 +6,9 @@
 
 ## Practice Exercises
 
-#### [Random Forest Codealong](./build_a_random_forest-codealong.ipynb)
-  - **Description** : Practice using the K-Means clustering method.
-  - **Difficulty** : Advanced
-  - **Length** : Moderate
-  - **[Solution](./practice_solution-code/kmeans_clustering-lab-solutions.ipynb)**
+#### [Build a Random Forest](./build_a_random_forest-codealong.ipynb)
+ - **Description** : Build a Random Forest ensemble method from scratch
+ - **Difficulty** : Advanced
+ - **Length** : Moderate
+ - **[Solution](./solution-code/build_a_random_forest-codealong-solutions.ipynb)**
+ - _**Note** : Resource is intended to be a walkthrough led by instructor or group activity._
