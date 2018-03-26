@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Deploying your models | [Here](./deploying-your-models.ipynb) |
-| Data | Titanic and SMS Spam/Ham datasets | [Here](./assets/dataset/) |
+| Data | Titanic and SMS Spam/Ham datasets | [Here](./data/) |
 | Extra Materials  | Lesson code for Flask apps| [Here](./app/) |
 
 ---
