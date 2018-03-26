@@ -10,12 +10,11 @@
 | --- | --- | --- |
 | Lesson | Logistic Regression | [Here](./logistic-regression-starter.ipynb) |
 | Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/logistic-regression-solution.ipynb) |
-| Data | College Admissions Data | [Here](./data/admissions.csv) |
-| Data | Titanic Survivors (CSV): Passenger/survival info (used in examples only) | [Here](./data/titanic.csv) |
-| Data | Glass (CSV):  | [Here](./data/glass.csv) |
-| Slides | PDF Slides for Log Reg, Confusion Matrix and ROC | [Here](./slides/) |
-| Extra Materials | Examples of Logistic Regression Implementation | [Here](./examples/) |
-| Labs | Bank Marketing Lab and Multi-LogReg using Iris Lab | [Here](./labs/) |
+| Practice | Two activities: Bank Marketing and Multi-LogReg using Iris | [Here](./practice/) |
+| Data | College Admissions Data, Titanic Survivors, Glass, and practice data | [Here](./data/) |
+| Slides | Sample Slides for Log Reg, Confusion Matrix, and ROC | [Here](./slides/) |
+| Extra Materials | Examples of Logistic Regression Implementation | [Here](./extra-materials/) |
+
 
 > These datasets were chosen because they are familiar datasets from previous lessons and have binary targets for logistic regression.
 
