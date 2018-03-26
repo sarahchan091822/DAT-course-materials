@@ -48,7 +48,7 @@ Before this lesson(s), students should already be able to:
 
 > Instructor Note: The Jupyter Notebook Practice can be used as a take-home practice assignment. Students often do not understand Git right away, so the majority of this lesson will be understanding and practicing Git.
 
-### Outline: Part 1 (Using the Command Line)
+### Part 1: Using the Command Line
 > 70 mins
 - Introduction
 - Command Line (10 mins)
@@ -59,7 +59,7 @@ Before this lesson(s), students should already be able to:
 - Intro to IDEs (10 mins)
 - Conclusion
 
-### Outline: Part Two (Git and GitHub)
+### Part Two: Git and GitHub
 > 100 mins
 - Introduction
 - Git Basics (15 mins)
