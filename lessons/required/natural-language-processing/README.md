@@ -7,11 +7,12 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Natural Language Processing | [Here](./natural-language-processing.ipynb) |
-| Data | Yelp Review Dataset | [Here](./assets/dataset/yelp.csv) |
-| Source Materials | Original files used to create this lesson | [Here](./assets/slides/) |
-| Extra Materials  | Optional material to cover Bayes Theorem and Naive Bayes | [Here](./extra-materials) |
+| Practice | Four sample NLP activities | [Here](./practice/) |
+| Data | Yelp Review and Tweet Datasets | [Here](./data/) |
+| Slides | Sample slide deck for this topic (PPTX, deprecated) | [Here](./slides/) |
+| Extra Materials | Optional materials on Bayes Theorem and Naive Bayes | [Here](./extra-materials) |
 
-> The yelp dataset was chosen because of its rich and colloquial text attributes, in addition to how well it lends itself to sentiment analysis.
+> The Yelp dataset was chosen because of its rich and colloquial text attributes, in addition to how well it lends itself to sentiment analysis.
 
 > *Note: This lesson also uses the Naive Bayes model MultinomialNB, which is often used for NLP applications, such as spam detection. An appendix is included at the end of the lesson for interested students. Supplemental materials are also offered if you want to explore Bayes-related topics.*
 
