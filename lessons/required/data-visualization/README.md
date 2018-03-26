@@ -11,10 +11,10 @@
 | Lesson | High-level overview (ipynb slides) | [Here](python-data-viz-slides.ipynb) |
 | Practice Activity | Instructor-run lab with exercises | [Here](./practice/python-data-viz-lab.ipynb) |
 | Solution  | Solutions to the lab exercises. | [Here](./practice/solution-code/python-data-viz-lab-solutions.ipynb) |
-| Datasets | Standard UCI Boston housing | [Here](./datasets/boston_housing_data.csv) |
-|          | Generic quarterly sales data | [Here](./datasets/sales_info.csv) |
-|          | UFO sighting records | [Here](./datasets/ufo.csv) |
-|          | Drinks consumed per capita in various countries | [Here](./datasets/drinks.csv) |
+| Datasets | Standard UCI Boston housing | [Here](./data/boston_housing_data.csv) |
+|          | Generic quarterly sales data | [Here](./data/sales_info.csv) |
+|          | UFO sighting records | [Here](./data/ufo.csv) |
+|          | Drinks consumed per capita in various countries | [Here](./data/drinks.csv) |
 <!--| Source Materials | Original files used to create this lesson | -- |-->
 
 > This lesson purposefully uses a large number of datasets. This allows students to practice opening different types of data files. Having many datasets available allows us to explore a variety of visualizations throughout the lesson that might not be present in one dataset alone.
