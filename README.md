@@ -167,19 +167,19 @@ You will get structured guidance and designated time to work throughout the cour
 
 ### Project Breakdown
 
-1. [Project 1: Python Technical Code Challenges][2-1A]
-2. [Project 2: Exploratory Data Analysis][2-1B]
-3. [Project 3: Modeling Practice][2-1C]
-4. [Project 4: Final Project][2-1D]
+1. [Project 1: Python Technical Code Challenges][2-2A]
+2. [Project 2: Exploratory Data Analysis][2-2B]
+3. [Project 3: Modeling Practice][2-2C]
+4. [Project 4: Final Project][2-2D]
     - Part 1: Proposal + Dataset
     - Part 2: Initial EDA Brief
     - Part 3: Technical Report
     - Part 4: Presentation
 
-[2-1A]: ./projects/required/project-code-challenge/
-[2-1B]: ./projects/required/project-eda-options/
-[2-1C]: ./projects/required/project-housing-data/
-[2-1D]: ./projects/required/project-final/
+[2-2A]: ./projects/required/project-code-challenge/
+[2-2B]: ./projects/required/project-eda-options/
+[2-2C]: ./projects/required/project-housing-data/
+[2-2D]: ./projects/required/project-final/
 
 ---
 
