@@ -9,7 +9,7 @@
 | Lesson | Decision Trees | [Here](./decision-trees.ipynb) |
 |        | Ensembles & Random Forests | [Here](./ensembles-random-forests.ipynb)
 | Solution  | None needed (by-hand group exercises and codealongs) | N/A |
-| Datasets | MLB player data | [hitters.csv](./datas/hitters.csv)
+| Datasets | MLB player data | [hitters.csv](./data/hitters.csv)
 | | Titanic survivors | [titanic.csv](./data/titanic.csv)
 | | Vehicles (test) | [vehicles_test.csv](./data/vehicles_test.csv)
 |  | Vehicles (train) | [vehicles_train.csv](./data/vehicles_train.csv)
