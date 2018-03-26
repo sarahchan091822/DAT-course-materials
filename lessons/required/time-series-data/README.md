@@ -8,26 +8,15 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Time Series - I. Working With Time Series Data | [Here](./01_time_series.ipynb) |
-| Lesson | Time Series - II. Rolling Statistics | [Here](./02_rolling_statistics.ipynb) |
-| Lesson | Time Series - III. Autocorrelation | [Here](./03_autocorrelation.ipynb) |
-| Lesson | Time Series - IV. Decomposition | [Here](./04_decomposition.ipynb) |
-| Lesson | Time Series - V. Bonus Lesson--Time Series Forecasting Models | [Here](./04_decomposition.ipynb) |
-| Coding Exercise  | Independent Exercise | [Here](./05_independent_practice.ipynb) |
-| Solution  | Solution Code - I. Time Series Data Applications | [Here](./solution-code/01_time_series_solutions.ipynb) |
-| Solution  | Solution Code - II. Rolling Statistics Applications | [Here](./solution-code/02_rolling_statistics_solutions.ipynb) |
-| Solution  | Solution Code - III. Autocorrelation Applications | [Here](./03_autocorrelation_solutions.ipynb) |
-| Solution  | Solution Code - IV. Decomposition Applications | [Here](./04_decomposition_solutions.ipynb) |
-| Solution  | Solution Code - Independent | [Here](./05_independent_practice_solutions.ipynb) |
-| Datasets | Apple Stock | [Here](./data/aapl.csv) |
-| Datasets | Airline Passengers | [Here](./data/airline.csv) |
-| Datasets | Oregon Bus Passengers | [Here](./data/bus.csv) |
-| Datasets | European Retail | [Here](./data/euretail.csv) |
-| Datasets | Google Stock | [Here](./data/googl.csv) |
-| Datasets | Drone Racing | [Here](./data/gt_drone_racing.csv) |
-| Datasets | Mapquest Google Trends | [Here](./data/mapquest_google_trends.csv) |
-| Datasets | Rossmann | [Here](./data/rossmann.csv) |
-| Datasets | Unemployment | [Here](./data/unemployment.csv) |
+| Lesson | Part I. Working With Time Series Data | [Here](./01_time_series.ipynb) |
+|  | Part II. Rolling Statistics | [Here](./02_rolling_statistics.ipynb) |
+|  | Part III. Autocorrelation | [Here](./03_autocorrelation.ipynb) |
+|  | Part IV. Decomposition | [Here](./04_decomposition.ipynb) |
+| Practice  | Part V. Time Series Practice | [Here](./05_independent_practice.ipynb) |
+| Lesson | (*Bonus*) Part VI. Time Series Forecasting Models | [Here](./06_bonus_time_series_models.ipynb) |
+| Solutions  | Sample solutions for lesson prompts and practice activity | [Here](./solution-code/) |
+| Data | 10 datasets used in lesson samples and practice activities | [Here](./data/) |
+
 
 ---
 
