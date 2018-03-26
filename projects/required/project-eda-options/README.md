@@ -8,13 +8,13 @@
 
 | Item | Description | Link |
 | --- | --- | --- |
-| Option 1: IMDB Starter Code | Project Prompts and Description | [Here](./imdb.ipynb) |
+| Option 1: IMDB Starter Code | Project Prompts and Description | [Here](./project-eda-imdb.ipynb) |
 | Option 1: IMDB Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
-| Option 1: IMDB Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/imdb_solutions.ipynb) |
+| Option 1: IMDB Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/instructor-materials/blob/master/04-project-solutions/project-eda-options-solutions/project-eda-imdb-solutions.ipynb) |
 | --- | --- | --- |
-| Option 2: Chipotle Starter Code | Project Prompts and Description | [Here](./chipotle.ipynb) |
-| Option 2: Chipotle Dataset | Dataset File | [Here](./Data/chipotle.tsv) |
-| Option 2: Chipotle Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/chipotle_solutions.ipynb) |
+| Option 2: Chipotle Starter Code | Project Prompts and Description | [Here](./project-eda-chipotle.ipynb) |
+| Option 2: Chipotle Dataset | Dataset File | [Here](./data/chipotle.tsv) |
+| Option 2: Chipotle Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/instructor-materials/blob/master/04-project-solutions/project-eda-options-solutions/project-eda-chipotle-solutions.ipynb) |
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. 
 
@@ -62,7 +62,6 @@ In a Jupyter Notebook, create working solutions for all of the **required** ques
 
 4. **Optional**: After completing the required portions, try your hand at the other option or complete the **bonus** sections for an additional challenge!
 
-
 ---
 
 ## Rubric
@@ -77,7 +76,6 @@ Score | Expectations
 **3** | _Surpasses our wildest expectations!_
 
 > Note: Scores of `2` mean that a requirement has been completely fulfilled, while `3` is typically reserved for bonus objectives.
-
 
 ---
 
