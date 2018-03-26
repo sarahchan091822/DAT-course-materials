@@ -8,11 +8,11 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Statistics-Review-part-1.ipynb | [Here](./Statistics-Review-part-1.ipynb) |
-| Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/Statistics-Review-part-1-solution.ipynb) |
+| Lesson | Summary Statistics Codealong in Python | [Here](./Statistics-Review-part-1.ipynb) |
+| Solution  | Solution code for Lesson Prompts | [Here](./solution-code/Statistics-Review-part-1-solution.ipynb) |
 | Datasets | Titanic Survival (CSV): Passenger/survival info. | [Here](./data/titanic.csv) |
-<!--| Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |-->
-<!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
+| Practice | Descriptive Stats with NumPy (includes data and solutions) | [Here](./practice/python-descriptive_statistics_numpy-lab-master/) |
+|  | Summary Statistics on Sample Data | [Here](./practice/statistics-describing_data-lab-master/) |
 
 > The Titanic survival dataset was chosen for this lesson because it is interesting, easy to understand, and commonly used in other tutorials. This dataset is also used in an official Kaggle tutorial (https://www.kaggle.com/c/titanic), which might be useful for students who want to explore Kaggle or the dataset further.
 
