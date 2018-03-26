@@ -8,12 +8,12 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | bias-and-variance.ipynb | [Here](./bias-and-variance.ipynb) |
-| Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/bias-and-variance-solution.ipynb) |
-| Practice  | Train Test Split and Cross Val. Lab | [Here](./practice/)
-| Datasets | Average weight of the body and the brain for 62 mammal species | [Here](./assets/data/mammals.txt) |
+| Lesson | Bias and Variance Lesson | [Here](./bias-and-variance.ipynb) |
+| Solution  | Solution code for lesson prompts | [Here](./solution-code/bias-and-variance-solution.ipynb) |
+| Practice  | Train Test Split and Cross Validation Lab (includes solutions) | [Here](./practice/)
+| Datasets | Average weight of the body and the brain for 62 mammal species | [Here](./data/mammals.txt) |
 
-> In this lesson, we use the Boston housing dataset (from scikit-learn) and the average weight of mammal bodies/brains. These datasets are used because they are appropriate for linear modeling with generally intuitive features.
+> In this lesson, we use the Boston housing dataset (imported from scikit-learn) and the average weight of mammal bodies/brains (included). These datasets are appropriate for linear modeling based on their generally intuitive features.
 
 ---
 
