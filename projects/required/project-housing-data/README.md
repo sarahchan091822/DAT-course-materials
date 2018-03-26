@@ -8,9 +8,14 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Starter Code | Project Description | [Here](./linreg-knn-project.ipynb) |
-| Solution Code | Sample solutions for project questions | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-3/project-3_solutions.ipynb) |
+| Starter Code | *Beginner* Project Prompts (Linreg, no KNN) | [Here](./linreg-no-knn/project-linreg-no-knn.ipynb) |
 | Dataset | Boston Housing Dataset (Provided as back-up to embedded data)| [Here](./data/boston_data.csv) |
+| Solution Code | Sample solutions for project questions (Linreg, no KNN) | [Here](https://git.generalassemb.ly/data-part-time/instructor-materials/blob/master/04-project-solutions/project-housing-data-solutions/linreg-no-knn/linreg-no-knn-solutions.ipynb) |
+| --- | --- | --- |
+| Starter Code | *Intermediate* Project Prompts (Linreg + KNN) | [Here](./linreg-and-knn/project-linreg-and-knn.ipynb) |
+| Dataset | Boston Housing Dataset (Provided as back-up to embedded data)| [Here](./data/boston_data.csv) |
+| Solution Code | Sample solutions for project questions (Linreg + KNN) | [Here](https://git.generalassemb.ly/data-part-time/instructor-materials/blob/master/04-project-solutions/project-housing-data-solutions/linreg-and-knn/linreg-and-knn-solutions.ipynb) |
+
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
 
