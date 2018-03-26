@@ -8,11 +8,16 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Two-part lesson, outlined below | [Part One](python-dtypes.ipynb), [Part Two](python-controlflow.ipynb)|
-| Solution  | Solution code for blanked-out lesson samples | [Here](./solution-code/python-dtypes-controlflow-solution.ipynb) |
+| Lesson | (*Beginner*) Part 1: Data Types | [Part One](./python-dtypes.ipynb) |
+| Lesson | (*Intermediate*) Part 2: Control Flow | [Part Two](./python-controlflow.ipynb)|
+| Practice | Practice: Part 1: Data Types  | [here](./types-lists-dictionaries-review.ipynb)|
+|  | Practice: Part 2: Functions  | [here](./python-functions.ipynb)|
+|  | (*Intermediate, Bonus*) Practice: IMDB Intro Lab  | [here](./python-movies-lab.ipynb)|
+| Solutions  | Sample Solutions for Blanked Out Lesson Demo | [Data Types](./solution-code/python-dtypes-controlflow-solution.ipynb) |
+|   | Sample Solutions: Part 1, Practice | [Practice: Data Types](./types-lists-dictionaries-review-solutions.ipynb) |
+|   | Sample Solutions: Part 2, Practice | [Practice: Functions](./python-functions-solutions.ipynb) |
+|   | Sample Solutions: Bonus Lab | [IMDB Lab](./solution-code/python-movies-lab-solutions.ipynb) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
-<!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
-
 
 ---
 
@@ -48,7 +53,7 @@ Before this lesson(s), students should already be able to:
 
 > Instructor Note: This material may be challenging to get through if students are new to programming. Expect students to struggle with for loops and functions — you likely will have to do these exercises as a code-along. If time is left over, there is practice on the Coffee Preferences data set. If not, students can use it for more practice at home.
 
-**Part 1 : Python Data Types** (90 min)
+**Part 1: Python Data Types** (90 min)
 - Why Python? (5 min)
 - Introduction to Data Types (10 min)
 - Jupyter Notebook (5 min)
@@ -62,7 +67,7 @@ Before this lesson(s), students should already be able to:
 - Importing Packages and Documentation (5 min)
 - Practice With a Partner (10 min)
 
-**Part 2 : Python Iterations, Control Flow, and Functions** (80 min)
+**Part 2: Python Iterations, Control Flow, and Functions** (80 min)
 - If... Else Statements (10 min)
 - Iterating With For Loops (30 min — consider mostly doing as a code-along)
 - Functions (30 min — consider mostly doing as a code-along)
