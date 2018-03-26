@@ -6,8 +6,8 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | 1. Decision Trees | [Here](./decision-trees.ipynb) |
-|        | 2. Ensembles & Random Forests | [Here](./ensembles-random-forests.ipynb)
+| Lesson | Part 1. Decision Trees | [Here](./decision-trees.ipynb) |
+|        | Part 2. Ensembles & Random Forests | [Here](./ensembles-random-forests.ipynb)
 | Solution  | None needed (exercises and codealongs are done by-hand in groups) | N/A |
 | Datasets | MLB player data | [hitters.csv](./data/hitters.csv)
 | | Titanic survivors | [titanic.csv](./data/titanic.csv)
@@ -59,7 +59,7 @@ Before this lesson, students should already be able to:
 > **Important:** Part Two is about 100 minutes of material and is less detail-oriented. If you only have a fraction of a class period, we recommended that you only focus entirely on part one.
 
 
-### Lesson Outline (One: Decision Trees)
+### Lesson Outline (Part One: Decision Trees)
 
 > TOTAL (170 min)
 - Introduction
@@ -79,7 +79,7 @@ Before this lesson, students should already be able to:
 - Summary: Comparing Decision Trees With Other Models (10 min)
 
 
-### Lesson Outline (Two: Ensembles & Decision Trees)
+### Lesson Outline (Part Two: Ensembles & Decision Trees)
 
 > TOTAL (100 min - to leave room for projects if needed)
 - Introduction
@@ -110,9 +110,3 @@ Before this lesson, students should already be able to:
 - __CHAPTER 8__ - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - This book provides a fantastic introduction to machine learning models and the statistics behind them. The visuals and explanations are really easy to understand. PDF available to download on the website.
 - __CHAPTER 9__ - [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - This book is by most of the same authors as the previous book, but goes into more detail. PDF available to download on the website.
 - __CHAPTER 8__ - [Applied Predictive Modeling](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485) - While this book features R code, the discussion of different predictive models and sampling methodologies are hard to beat.  
-
-
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/41oQwj8rS0L._SX329_BO1,204,203,200_.jpg" width="180">
-<img src="https://images-na.ssl-images-amazon.com/images/I/41aQrQaPseL._SX331_BO1,204,203,200_.jpg" width="180">
-<img src="https://images-na.ssl-images-amazon.com/images/I/41S7RyAnsLL._SX313_BO1,204,203,200_.jpg" width="180">
