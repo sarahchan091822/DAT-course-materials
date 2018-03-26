@@ -8,8 +8,9 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | k-means, DBSCAN, and hierarchical clustering | [Here](./clustering-starter.ipynb) |
-| Solution  | Solution code for questions and exercises | [Here](./solution-code/clustering-solution.ipynb) |
+| Lesson | Part 1: Kmeans | [Here](./01_intro-to-kmeans.ipynb) |
+| Lesson | Part 2: Dbscan (*Optional*) | [Here](.02_clustering_adv.ipynb) |
+| Solution  | Part 2: Solution code for questions and exercises | [Here](./solution-code/02_clustering_adv-solution.ipynb) |
 | Datasets | Beer nutrition and cost | [Here](./data/beer.txt) |
 | Extra Practice | Four additional labs for practice | [Here](./practice/) |
 
