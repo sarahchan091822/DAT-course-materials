@@ -6,9 +6,9 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Decision Trees | [Here](./decision-trees.ipynb) |
-|        | Ensembles & Random Forests | [Here](./ensembles-random-forests.ipynb)
-| Solution  | None needed (by-hand group exercises and codealongs) | N/A |
+| Lesson | 1. Decision Trees | [Here](./decision-trees.ipynb) |
+|        | 2. Ensembles & Random Forests | [Here](./ensembles-random-forests.ipynb)
+| Solution  | None needed (exercises and codealongs are done by-hand in groups) | N/A |
 | Datasets | MLB player data | [hitters.csv](./data/hitters.csv)
 | | Titanic survivors | [titanic.csv](./data/titanic.csv)
 | | Vehicles (test) | [vehicles_test.csv](./data/vehicles_test.csv)
@@ -59,11 +59,11 @@ Before this lesson, students should already be able to:
 > **Important:** Part Two is about 100 minutes of material and is less detail-oriented. If you only have a fraction of a class period, we recommended that you only focus entirely on part one.
 
 
-### Lesson Outline (Part One: Decision Trees)
+### Lesson Outline (One: Decision Trees)
 
 > TOTAL (170 min)
 - Introduction
-- Part 1: Regression Trees (115 min)
+- A: Regression Trees (115 min)
     - Group Exercise (20 min)
     - Building a Regression Tree by Hand (30 min)
     - How Does a Computer build a Regression Tree? (15 min)
@@ -72,28 +72,28 @@ Before this lesson, students should already be able to:
     - What Happens When We Grow a Tree Too Deep? (5 min)
     - Tuning a Regression Tree (15 min)
     - Making Predictions for the Testing Data (5 min)
-- Part 2: Classification Trees (45 min)
+- B: Classification Trees (45 min)
     - Comparing Regression Trees and Classification Trees (10 min)
     - Splitting Criteria for Classification Trees (20 min)
     - Building a Classification Tree in scikit-learn (15 min)
 - Summary: Comparing Decision Trees With Other Models (10 min)
 
 
-### Lesson Outline (Part Two: Ensembles & Decision Trees)
+### Lesson Outline (Two: Ensembles & Decision Trees)
 
 > TOTAL (100 min - to leave room for projects if needed)
 - Introduction
-- Part 1: Manual Ensembling (15 min)
-- Part 2: Bagging (30 min)
+- A: Manual Ensembling (15 min)
+- B: Bagging (30 min)
     - Manually Implementing Bagged Decision Trees (15 min)
     - Bagged Decision Trees in scikit-learn (5 min)
     - Estimating Out-of-Sample Error (10 min)
-- Part 3: Random Forests (10 min)
-- Part 4: Building and Tuning Decision Trees and Random Forests (30 min)
+- C: Random Forests (10 min)
+- D: Building and Tuning Decision Trees and Random Forests (30 min)
     - Optional: Predicting Salary With a Decision Tree (15 min)
     - Predicting Salary With a Random Forest (10 min)
     - Comparing Random Forests With Decision Trees (5 min)
-- Optional: Tuning Individual Parameters (15 min)
+- E (*Optional*): Tuning Individual Parameters (15 min)
 - Summary
 
 
