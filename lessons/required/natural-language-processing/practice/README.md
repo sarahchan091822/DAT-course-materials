@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Natural Language Processing Practice
 
-Unit 4 : DS Applications | NLP
+> Required Topic | Intro to NLP
 
 ---
 
@@ -26,7 +26,7 @@ Unit 4 : DS Applications | NLP
   
 #### [Topic Modeling LDA (codealong)](./topic_modeling_lda-codealong.ipynb)
   - **Description** : Walkthrough of using an unsupervised Natural Language analysis method; Latent Dirichlet Allocation.
-  - **Difficulty** : Advance
+  - **Difficulty** : Advanced
   - **Length** : Moderate
   - **[Solution](./solution-code/topic_modeling_lda-codealong-solutions.ipynb)**
   - _**Note** : Intended to be an instructor led walkthrough_
