@@ -14,8 +14,8 @@
 |  | Practice: Part 2: Functions  | [here](./python-functions.ipynb)|
 |  | (*Intermediate, Bonus*) Practice: IMDB Intro Lab  | [here](./python-movies-lab.ipynb)|
 | Solutions  | Sample Solutions for Blanked Out Lesson Demo | [Data Types](./solution-code/python-dtypes-controlflow-solution.ipynb) |
-|   | Sample Solutions: Part 1, Practice | [Practice: Data Types](./types-lists-dictionaries-review-solutions.ipynb) |
-|   | Sample Solutions: Part 2, Practice | [Practice: Functions](./python-functions-solutions.ipynb) |
+|   | Sample Solutions: Part 1, Practice | [Practice: Data Types](./solution-code/types-lists-dictionaries-review-solutions.ipynb) |
+|   | Sample Solutions: Part 2, Practice | [Practice: Functions](./solution-code/python-functions-solutions.ipynb) |
 |   | Sample Solutions: Bonus Lab | [IMDB Lab](./solution-code/python-movies-lab-solutions.ipynb) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
 
