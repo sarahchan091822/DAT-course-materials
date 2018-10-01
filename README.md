@@ -258,4 +258,8 @@ Throughout the course, you'll be asked to provide feedback about your experience
 
 [Insert specific VTS/Exit Ticket details here](X)
 
+### Contribution Guidelines
+
+To contribute to any course materials in this organization, please refer to these [contribution guidelines](https://docs.google.com/document/d/1sNooViFLcuCLVbB4DnQusHeKslh1nlSSmU3xmmJ2Urk/edit#heading=h.way9s1vs6x4z).
+
 ---
