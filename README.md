@@ -45,9 +45,9 @@ The curriculum materials for this course are written in Python 3.6.
 <a id='team'></a>
 ## Your Instructional Team
 
-**Instructor**: Wesley Hall (https://bigwes.com)
+**Instructor**: X (x)
 
-**Email**: (wesley@bigwes.com)
+**Assistant**: X (x)
 
 ---
 
