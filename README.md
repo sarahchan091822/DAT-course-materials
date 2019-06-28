@@ -45,9 +45,9 @@ The curriculum materials for this course are written in Python 3.6.
 <a id='team'></a>
 ## Your Instructional Team
 
-**Instructor**: [X](X)
+**Instructor**: X (x)
 
-**Assistant**: [X](X)
+**Assistant**: X (x)
 
 ---
 
