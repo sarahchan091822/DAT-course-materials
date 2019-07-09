@@ -6,10 +6,12 @@
 1. [Matplotlib](#matplotlib)
 1. [Seaborn](#seaborn)
 
-## Usage
+## Usage/How To Import
 
 ```python
 import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+
+## My exploratory project was done on the IDMB database.
