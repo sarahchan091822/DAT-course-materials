@@ -14,4 +14,5 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-## My exploratory project was done on the IDMB database.
+
+
