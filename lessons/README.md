@@ -29,8 +29,8 @@ FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 |
 --- | ---  | ---  |
 [Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 |
 [Data Visualization in Python][1-1F]            | Unit 2 | Session 6 |
-[Experiments & Hypothesis Testing][1-1G]        | Unit 2 | Session 7 |
-[Statistics in Python][1-1H]                    | Unit 2 | Session 8 |
+[Statistics in Python][1-1G]                    | Unit 2 | Session 7 |
+[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 |
 FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 |
 --- | ---  | ---  |
 [Linear Regression][1-1J]                       | Unit 3 | Session 10 |
@@ -52,8 +52,8 @@ FLEX: Review + Project Workshop                 | Unit 4 | Session 19 |
 
 [1-1E]: ./required/exploratory-data-analysis/
 [1-1F]: ./required/data-visualization/
-[1-1G]: ./required/experiments-hypothesis-tests/
-[1-1H]: ./required/statistics-refresher/
+[1-1G]: ./required/statistics-refresher/
+[1-1H]: ./required/experiments-hypothesis-tests/
 
 [1-1J]: ./required/linear-regression/
 [1-1K]: ./required/train-test-split-bias-variance/
