@@ -69,8 +69,8 @@ Before this lesson(s), students should already be able to:
 
 **Part 2: Python Iterations, Control Flow, and Functions** (80 min)
 - If... Else Statements (10 min)
-- Iterating With For Loops (30 min — consider mostly doing as a code-along)
-- Functions (30 min — consider mostly doing as a code-along)
+- Iterating With For Loops (30 min)
+- Functions (30 min)
 - While Loops (10 min)
 - Practice control flow on Coffee Preference data set (if time remains, otherwise practice at home)
 - Conclusion
