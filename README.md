@@ -45,9 +45,9 @@ The curriculum materials for this course are written in Python 3.6.
 <a id='team'></a>
 ## Your Instructional Team
 
-**Instructor**: X (x)
+**Lead Instructor**: Stuart Ross
 
-**Assistant**: X (x)
+**Instructional Associate**: Sonyah Seiden
 
 ---
 
@@ -71,31 +71,31 @@ General Assembly's Data Science part time materials are organized into **four** 
 
 Here is the schedule we will be following for our part time data science course:
 
-Lesson  | Unit Number | Session Number |
---- | ---  | ---  |
-[Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 |
-[Your Development Environment][1-1B]            | Unit 1 | Session 2 |
-[Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
-FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 |
---- | ---  | ---  |
-[Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 |
-[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 |
-[Statistics in Python][1-1G]                    | Unit 2 | Session 7 |
-[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 |
-FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 |
---- | ---  | ---  |
-[Linear Regression][1-1J]                       | Unit 3 | Session 10 |
-[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 |
-[KNN / Classification][1-1L]                    | Unit 3 | Session 12 |
-[Logistic Regression][1-1M]                     | Unit 3 | Session 13 |
-FLEX: Project Workshop + Presentations          | Unit 3 | Session 14 |
---- | ---  | ---  |
-[Working With Data: APIs][1-1O]                 | Unit 4 | Session 15 |
-[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 16 |
-[Intro to Time Series][1-1Q]                    | Unit 4 | Session 17 |
-FLEX: Instructor Choice                         | Unit 4 | Session 18 |
-FLEX: Review + Project Workshop                 | Unit 4 | Session 19 |
-[Final Project Presentations][1-1T]             | Unit 4 | Session 20 |
+Lesson  | Unit Number | Session Number | Recording |
+--- | ---  | ---  | --- |
+[Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 | [Link](https://generalassembly.zoom.us/rec/share/Cp3BNozLmaGT_fLW0pIKwsVfh9z14h0xpSlC2HnYLZW9LlWWetfJLROSGN5WAT0d.nMLT5nHfU9E9y01I) Passcode: @p6C6qZY |
+[Your Development Environment][1-1B]            | Unit 1 | Session 2 | [Link]() **Password**:  |
+[Python Foundations][1-1C]                      | Unit 1 | Session 3 | [Link]() **Password**:  | 
+FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | [Link]() **Password**:  |
+--- | ---  | ---  | --- |
+[Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | [Link]() **Password**:  |
+[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 | [Link]() **Password**:  |
+[Statistics in Python][1-1G]                    | Unit 2 | Session 7 | [Link]() **Password**:  |
+[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 | [Link]() **Password**:  |
+FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | [Link]() **Password**:  |
+--- | ---  | ---  | --- |
+[Linear Regression][1-1J]                       | Unit 3 | Session 10  [Link]() **Password**:  |
+[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11  [Link]() **Password**:  |
+[KNN / Classification][1-1L]                    | Unit 3 | Session 12  [Link]() **Password**:  |
+[Logistic Regression][1-1M]                     | Unit 3 | Session 13  [Link]() **Password**:  |
+FLEX: Project Workshop + Presentations          | Unit 3 | Session 14  [Link]() **Password**:  |
+--- | ---  | ---  | --- |
+[Working With Data: APIs][1-1O]                 | Unit 4 | Session 15  [Link]() **Password**:  |
+[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 16  [Link]() **Password**:  |
+[Intro to Time Series][1-1Q]                    | Unit 4 | Session 17  [Link]() **Password**:  |
+FLEX: Instructor Choice                         | Unit 4 | Session 18  [Link]() **Password**:  |
+FLEX: Review + Project Workshop                 | Unit 4 | Session 19  [Link]() **Password**:  |
+[Final Project Presentations][1-1T]             | Unit 4 | Session 20  [Link]() **Password**:  |
 
 [1-1A]: ./lessons/required/welcome-to-data-science/
 [1-1B]: ./lessons/required/development-environment/
