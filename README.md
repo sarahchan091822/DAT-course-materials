@@ -74,7 +74,7 @@ Here is the schedule we will be following for our part time data science course:
 |Lesson  | Unit Number | Session Number | Recording |
 |--- | --- | --- | --- |
 |[Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 | [Link](https://generalassembly.zoom.us/rec/share/Cp3BNozLmaGT_fLW0pIKwsVfh9z14h0xpSlC2HnYLZW9LlWWetfJLROSGN5WAT0d.nMLT5nHfU9E9y01I) Passcode: @p6C6qZY |
-|[Your Development Environment][1-1B]            | Unit 1 | Session 2 | [Link]() |
+|[Your Development Environment][1-1B]            | Unit 1 | Session 2 | [Link](https://generalassembly.zoom.us/rec/share/pxtCOlePVapHzmRSc7pmQH0syNHXZqEHG8iJxCACAwIb2eBojtRVByhTlSvctnZu.SlHV6ew2EH5sH6A-) Passcode: 22M4#LwU |
 |[Python Foundations][1-1C]                      | Unit 1 | Session 3 | [Link]() | 
 |FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | [Link]() |
 |--- | --- | --- | --- |
