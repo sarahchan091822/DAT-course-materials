@@ -9,10 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Starter Code | Required questions and Bonus prompts | [Here](./project-code-challenge.ipynb) |
-| Solution Code | Sample solutions for all required sections | [Here](https://git.generalassemb.ly/data-part-time/instructor-materials/tree/master/04-project-solutions/project-code-challenge-solutions) |
-
-> Note: Instructors should withhold providing project solutions until students have submitted their drafts. 
-
+| Solution Code | Sample solutions for all required sections | 
 
 ---
 
