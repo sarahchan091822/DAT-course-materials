@@ -75,12 +75,12 @@ Here is the schedule we will be following for our part time data science course:
 |--- | --- | --- | --- |
 |[Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 | [Link](https://generalassembly.zoom.us/rec/share/Cp3BNozLmaGT_fLW0pIKwsVfh9z14h0xpSlC2HnYLZW9LlWWetfJLROSGN5WAT0d.nMLT5nHfU9E9y01I) Passcode: @p6C6qZY |
 |[Your Development Environment][1-1B]            | Unit 1 | Session 2 | [Link](https://generalassembly.zoom.us/rec/share/pxtCOlePVapHzmRSc7pmQH0syNHXZqEHG8iJxCACAwIb2eBojtRVByhTlSvctnZu.SlHV6ew2EH5sH6A-) Passcode: 22M4#LwU |
-|[Exploratory Data Analysis in Pandas][1-1E]     | Unit 1 | Session 3 | [Link](https://generalassembly.zoom.us/rec/share/SQ7Jy5YCfxuzUWohpqEuAtCilGo_NMHApNYftl_uTwfbkw6Oe4RIxMqWFg-Tp57O.wNXRCAgro-cVeRYd) Passcode: n+fef4&Y |
-|[Python Foundations][1-1C]                      | Unit 1 | Session 5 | [Link] | 
-|FLEX: Project Workshop + Presentations          | Unit 1 | Session 5 | [Link]|
+|[Python Foundations][1-1C]                      | Unit 1 | Session 4 | See previous lesson recording | 
+|[Exploratory Data Analysis in Pandas][1-1E]     | Unit 1 | Session 5 | [Link](https://generalassembly.zoom.us/rec/share/SQ7Jy5YCfxuzUWohpqEuAtCilGo_NMHApNYftl_uTwfbkw6Oe4RIxMqWFg-Tp57O.wNXRCAgro-cVeRYd) Passcode: n+fef4&Y |
+|FLEX: Project Workshop + Presentations          | Unit 1 | Session 6 | N/A |
 |--- | --- | --- | --- |
 
-|[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 | [Link]() |
+|[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 | [Link](https://generalassembly.zoom.us/rec/share/Viag0BnUQuR3FN3gzs5XbF176BoRVAmAKX-3YqyOZwSihfVMbgrYpF9y8nGWGoRJ.5WnSpQgoyIO-IvrP) Passcode: 9Fu7=8=Q |
 |[Statistics in Python][1-1G]                    | Unit 2 | Session 7 | [Link]() |
 |[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 | [Link]() |
 | FLEX: Project Workshop + Presentations         | Unit 2 | Session 9 | [Link]() |
