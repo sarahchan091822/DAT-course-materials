@@ -81,7 +81,7 @@ Here is the schedule we will be following for our part time data science course:
 |--- | --- | --- | --- |
 |[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 | [Link](https://generalassembly.zoom.us/rec/share/Viag0BnUQuR3FN3gzs5XbF176BoRVAmAKX-3YqyOZwSihfVMbgrYpF9y8nGWGoRJ.5WnSpQgoyIO-IvrP) Passcode: 9Fu7=8=Q |
 |[Statistics in Python][1-1G]                    | Unit 2 | Session 7 | [Link](https://generalassembly.zoom.us/rec/share/W6tGpOXPa9gV53N68FnWdFfaHLa4qFwlt4cnn3TO7rsIH_gO2RGZ0l_BpsJPXY9U.IrJzeMrBOloKZbbi) Passcode: CQX@^8$Z |
-|[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 | [Link]() |
+|[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 | [Link](https://generalassembly.zoom.us/rec/share/Fv99vvnr_Tn8eLw3W1g_8O-uPRxHiYXW3Vd4AfTly_rAS4ass61uhBYx-krP_myJ.v8zrfiuO9Z_sFq2f) Passcode: QPPZ?@Z5 |
 | FLEX: Project Workshop + Presentations         | Unit 2 | Session 9 | [Link]() |
 |--- | --- | --- | --- |
 |[Linear Regression][1-1J]                       | Unit 3 | Session 10 | [Link]() |
