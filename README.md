@@ -86,7 +86,7 @@ Here is the schedule we will be following for our part time data science course:
 |--- | --- | --- | --- |
 |[Linear Regression][1-1J]                       | Unit 3 | Session 10 | [Link](https://generalassembly.zoom.us/rec/share/QSuDx5wMNhKPx9ZVzy95LlrQDly_SVvfQhB_lbzUhkE5kUq5myJXrMsxpARgVQH2.WWro685u2f06OiHv) Passcode: #6H5PRmB |
 |[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 | [Link](https://generalassembly.zoom.us/rec/share/xSEqQufkWfeu0eqtYA8aRNE40bnt4lMxhMDERxMqEzlrjKn0gJsgkGVy5DgNdXSY.l1RQu1QDVCPGWVyZ) Passcode: @5WmNR#@ |
-|[KNN / Classification][1-1L]                    | Unit  3 | Session 12 | [Link]() |
+|[KNN / Classification][1-1L]                    | Unit  3 | Session 12 | [Link](https://generalassembly.zoom.us/rec/share/O_ajP5YqvhhD2m8WKaJ3NSFGJdijH5aF00mGUHwNE1lrKwiSffJHkk7adtpe8cF_.3qqI3S8IiGFKen5q) Passcode: @k.UU1GA |
 |[Logistic Regression][1-1M]                     | Unit 3 | Session 13 | [Link]() |
 |FLEX: Project Workshop + Presentations          | Unit 3 | Session 14 | [Link]() |
 |--- | --- | --- | --- |
