@@ -88,7 +88,7 @@ Here is the schedule we will be following for our part time data science course:
 |[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 | [Link](https://generalassembly.zoom.us/rec/share/xSEqQufkWfeu0eqtYA8aRNE40bnt4lMxhMDERxMqEzlrjKn0gJsgkGVy5DgNdXSY.l1RQu1QDVCPGWVyZ) Passcode: @5WmNR#@ |
 | Random Forest                                  | Unit 3 | Session 12 | [Link](https://generalassembly.zoom.us/rec/share/O_ajP5YqvhhD2m8WKaJ3NSFGJdijH5aF00mGUHwNE1lrKwiSffJHkk7adtpe8cF_.3qqI3S8IiGFKen5q) Passcode: @k.UU1GA |
 |[KNN / Classification][1-1L]                    | Unit 3 | Session 13 | [Link](https://generalassembly.zoom.us/rec/share/6ayxDP4ek-0OYQrv8_HnaMVwedLnUEqkpUSFfxBIptwVarmf9FMr1DmUomh5hfkP.aiE1HfrvolzWgpj9) Passcode: .4mqxuY! |
-| Modeling WrapUp & Review                       | Unit 3 | Session 15 | [Link]() |
+| Modeling WrapUp & Review                       | Unit 3 | Session 15 | [Link](https://generalassembly.zoom.us/rec/share/kbGp8jdixyldikFBLP6Yi3LKwNOkyu-zhsUAy0E7wJEimdUrdzpe9cDDUNKnhWHA.efX4slrIRHYLXuMb) Passcode: dW9w^Z29 |
 |--- | --- | --- | --- |
 |[Working With Data: APIs][1-1O]                 | Unit 4 | Session 16 | [Link]() |
 |[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 17 | [Link]() |
