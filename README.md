@@ -82,19 +82,18 @@ Here is the schedule we will be following for our part time data science course:
 |[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 | [Link](https://generalassembly.zoom.us/rec/share/Viag0BnUQuR3FN3gzs5XbF176BoRVAmAKX-3YqyOZwSihfVMbgrYpF9y8nGWGoRJ.5WnSpQgoyIO-IvrP) Passcode: 9Fu7=8=Q |
 |[Statistics in Python][1-1G]                    | Unit 2 | Session 7 | [Link](https://generalassembly.zoom.us/rec/share/W6tGpOXPa9gV53N68FnWdFfaHLa4qFwlt4cnn3TO7rsIH_gO2RGZ0l_BpsJPXY9U.IrJzeMrBOloKZbbi) Passcode: CQX@^8$Z |
 |[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 | [Link](https://generalassembly.zoom.us/rec/share/Fv99vvnr_Tn8eLw3W1g_8O-uPRxHiYXW3Vd4AfTly_rAS4ass61uhBYx-krP_myJ.v8zrfiuO9Z_sFq2f) Passcode: QPPZ?@Z5 |
-| FLEX: Project Workshop + Presentations         | Unit 2 | Session 9 | [Link]() |
+| FLEX: Project Workshop + Presentations (free working session)        | Unit 2 | Session 9 | [Link]() |
 |--- | --- | --- | --- |
 |[Linear Regression][1-1J]                       | Unit 3 | Session 10 | [Link](https://generalassembly.zoom.us/rec/share/QSuDx5wMNhKPx9ZVzy95LlrQDly_SVvfQhB_lbzUhkE5kUq5myJXrMsxpARgVQH2.WWro685u2f06OiHv) Passcode: #6H5PRmB |
 |[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 | [Link](https://generalassembly.zoom.us/rec/share/xSEqQufkWfeu0eqtYA8aRNE40bnt4lMxhMDERxMqEzlrjKn0gJsgkGVy5DgNdXSY.l1RQu1QDVCPGWVyZ) Passcode: @5WmNR#@ |
 | Random Forest                                  | Unit 3 | Session 12 | [Link](https://generalassembly.zoom.us/rec/share/O_ajP5YqvhhD2m8WKaJ3NSFGJdijH5aF00mGUHwNE1lrKwiSffJHkk7adtpe8cF_.3qqI3S8IiGFKen5q) Passcode: @k.UU1GA |
 |[KNN / Classification][1-1L]                    | Unit 3 | Session 13 | [Link](https://generalassembly.zoom.us/rec/share/6ayxDP4ek-0OYQrv8_HnaMVwedLnUEqkpUSFfxBIptwVarmf9FMr1DmUomh5hfkP.aiE1HfrvolzWgpj9) Passcode: .4mqxuY! |
-|[Logistic Regression][1-1M]                     | Unit 3 | Session 14 | [Link]() |
-|FLEX: Project Workshop + Presentations          | Unit 3 | Session 15 | [Link]() |
+| Modeling WrapUp & Review                       | Unit 3 | Session 15 | [Link]() |
 |--- | --- | --- | --- |
 |[Working With Data: APIs][1-1O]                 | Unit 4 | Session 16 | [Link]() |
 |[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 17 | [Link]() |
 |[Intro to Time Series][1-1Q]                    | Unit 4 | Session 18 | [Link]() |
-|FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | [Link]() |
+|[Logistic Regression][1-1M]                     | Unit 4 | Session 19 | [Link]() |
 |[Final Project Presentations][1-1T]             | Unit 4 | Session 20 | [Link]() |
 
 [1-1A]: ./lessons/required/welcome-to-data-science/
