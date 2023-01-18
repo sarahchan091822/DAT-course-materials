@@ -73,28 +73,28 @@ Here is the schedule we will be following for our part time data science course:
 
 |Lesson  | Unit Number | Session Number | Recording |
 |--- | --- | --- | --- |
-|[Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 | [Link](https://generalassembly.zoom.us/rec/share/Cp3BNozLmaGT_fLW0pIKwsVfh9z14h0xpSlC2HnYLZW9LlWWetfJLROSGN5WAT0d.nMLT5nHfU9E9y01I) Passcode: @p6C6qZY |
-|[Your Development Environment][1-1B]            | Unit 1 | Session 2 | [Link](https://generalassembly.zoom.us/rec/share/pxtCOlePVapHzmRSc7pmQH0syNHXZqEHG8iJxCACAwIb2eBojtRVByhTlSvctnZu.SlHV6ew2EH5sH6A-) Passcode: 22M4#LwU |
-|[Python Foundations][1-1C]                      | Unit 1 | Session 4 | See previous lesson recording | 
-|[Exploratory Data Analysis in Pandas][1-1E]     | Unit 1 | Session 5 | [Link](https://generalassembly.zoom.us/rec/share/SQ7Jy5YCfxuzUWohpqEuAtCilGo_NMHApNYftl_uTwfbkw6Oe4RIxMqWFg-Tp57O.wNXRCAgro-cVeRYd) Passcode: n+fef4&Y |
-|FLEX: Project Workshop + Presentations          | Unit 1 | Session 6 | N/A |
+|[Welcome to Data Science][1-1A]| Unit 1 | Session 1 | [Link](https://generalassembly.zoom.us/rec/share/Cp3BNozLmaGT_fLW0pIKwsVfh9z14h0xpSlC2HnYLZW9LlWWetfJLROSGN5WAT0d.nMLT5nHfU9E9y01I) Passcode: @p6C6qZY |
+|[Your Development Environment][1-1B] | Unit 1 | Session 2 | [Link](https://generalassembly.zoom.us/rec/share/pxtCOlePVapHzmRSc7pmQH0syNHXZqEHG8iJxCACAwIb2eBojtRVByhTlSvctnZu.SlHV6ew2EH5sH6A-) Passcode: 22M4#LwU |
+|[Python Foundations][1-1C] | Unit 1 | Session 4 | See previous lesson recording | 
+|[Exploratory Data Analysis in Pandas][1-1E] | Unit 1 | Session 5 | [Link](https://generalassembly.zoom.us/rec/share/SQ7Jy5YCfxuzUWohpqEuAtCilGo_NMHApNYftl_uTwfbkw6Oe4RIxMqWFg-Tp57O.wNXRCAgro-cVeRYd) Passcode: n+fef4&Y |
+|FLEX: Project Workshop + Presentations | Unit 1 | Session 6 | N/A |
 |--- | --- | --- | --- |
-|[Data Visualization in Python][1-1F]            | Unit 2 | Session 6 | [Link](https://generalassembly.zoom.us/rec/share/Viag0BnUQuR3FN3gzs5XbF176BoRVAmAKX-3YqyOZwSihfVMbgrYpF9y8nGWGoRJ.5WnSpQgoyIO-IvrP) Passcode: 9Fu7=8=Q |
-|[Statistics in Python][1-1G]                    | Unit 2 | Session 7 | [Link](https://generalassembly.zoom.us/rec/share/W6tGpOXPa9gV53N68FnWdFfaHLa4qFwlt4cnn3TO7rsIH_gO2RGZ0l_BpsJPXY9U.IrJzeMrBOloKZbbi) Passcode: CQX@^8$Z |
-|[Experiments & Hypothesis Testing][1-1H]        | Unit 2 | Session 8 | [Link](https://generalassembly.zoom.us/rec/share/Fv99vvnr_Tn8eLw3W1g_8O-uPRxHiYXW3Vd4AfTly_rAS4ass61uhBYx-krP_myJ.v8zrfiuO9Z_sFq2f) Passcode: QPPZ?@Z5 |
+|[Data Visualization in Python][1-1F] | Unit 2 | Session 6 | [Link](https://generalassembly.zoom.us/rec/share/Viag0BnUQuR3FN3gzs5XbF176BoRVAmAKX-3YqyOZwSihfVMbgrYpF9y8nGWGoRJ.5WnSpQgoyIO-IvrP) Passcode: 9Fu7=8=Q |
+|[Statistics in Python][1-1G] | Unit 2 | Session 7 | [Link](https://generalassembly.zoom.us/rec/share/W6tGpOXPa9gV53N68FnWdFfaHLa4qFwlt4cnn3TO7rsIH_gO2RGZ0l_BpsJPXY9U.IrJzeMrBOloKZbbi) Passcode: CQX@^8$Z |
+|[Experiments & Hypothesis Testing][1-1H] | Unit 2 | Session 8 | [Link](https://generalassembly.zoom.us/rec/share/Fv99vvnr_Tn8eLw3W1g_8O-uPRxHiYXW3Vd4AfTly_rAS4ass61uhBYx-krP_myJ.v8zrfiuO9Z_sFq2f) Passcode: QPPZ?@Z5 |
 | FLEX: Project Workshop + Presentations (free working session)        | Unit 2 | Session 9 | [Link]() |
 |--- | --- | --- | --- |
-|[Linear Regression][1-1J]                       | Unit 3 | Session 10 | [Link](https://generalassembly.zoom.us/rec/share/QSuDx5wMNhKPx9ZVzy95LlrQDly_SVvfQhB_lbzUhkE5kUq5myJXrMsxpARgVQH2.WWro685u2f06OiHv) Passcode: #6H5PRmB |
-|[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 11 | [Link](https://generalassembly.zoom.us/rec/share/xSEqQufkWfeu0eqtYA8aRNE40bnt4lMxhMDERxMqEzlrjKn0gJsgkGVy5DgNdXSY.l1RQu1QDVCPGWVyZ) Passcode: @5WmNR#@ |
-| Random Forest                                  | Unit 3 | Session 12 | [Link](https://generalassembly.zoom.us/rec/share/O_ajP5YqvhhD2m8WKaJ3NSFGJdijH5aF00mGUHwNE1lrKwiSffJHkk7adtpe8cF_.3qqI3S8IiGFKen5q) Passcode: @k.UU1GA |
-|[KNN / Classification][1-1L]                    | Unit 3 | Session 13 | [Link](https://generalassembly.zoom.us/rec/share/6ayxDP4ek-0OYQrv8_HnaMVwedLnUEqkpUSFfxBIptwVarmf9FMr1DmUomh5hfkP.aiE1HfrvolzWgpj9) Passcode: .4mqxuY! |
-| Modeling WrapUp & Review                       | Unit 3 | Session 15 | [Link](https://generalassembly.zoom.us/rec/share/kbGp8jdixyldikFBLP6Yi3LKwNOkyu-zhsUAy0E7wJEimdUrdzpe9cDDUNKnhWHA.efX4slrIRHYLXuMb) Passcode: dW9w^Z29 |
+|[Linear Regression][1-1J] | Unit 3 | Session 10 | [Link](https://generalassembly.zoom.us/rec/share/QSuDx5wMNhKPx9ZVzy95LlrQDly_SVvfQhB_lbzUhkE5kUq5myJXrMsxpARgVQH2.WWro685u2f06OiHv) Passcode: #6H5PRmB |
+|[Train-Test Split & Bias-Variance][1-1K] | Unit 3 | Session 11 | [Link](https://generalassembly.zoom.us/rec/share/xSEqQufkWfeu0eqtYA8aRNE40bnt4lMxhMDERxMqEzlrjKn0gJsgkGVy5DgNdXSY.l1RQu1QDVCPGWVyZ) Passcode: @5WmNR#@ |
+| Random Forest | Unit 3 | Session 12 | [Link](https://generalassembly.zoom.us/rec/share/O_ajP5YqvhhD2m8WKaJ3NSFGJdijH5aF00mGUHwNE1lrKwiSffJHkk7adtpe8cF_.3qqI3S8IiGFKen5q) Passcode: @k.UU1GA |
+|[KNN / Classification][1-1L] | Unit 3 | Session 13 | [Link](https://generalassembly.zoom.us/rec/share/6ayxDP4ek-0OYQrv8_HnaMVwedLnUEqkpUSFfxBIptwVarmf9FMr1DmUomh5hfkP.aiE1HfrvolzWgpj9) Passcode: .4mqxuY! |
+| Modeling WrapUp & Review | Unit 3 | Session 15 | [Link](https://generalassembly.zoom.us/rec/share/kbGp8jdixyldikFBLP6Yi3LKwNOkyu-zhsUAy0E7wJEimdUrdzpe9cDDUNKnhWHA.efX4slrIRHYLXuMb) Passcode: dW9w^Z29 |
 |--- | --- | --- | --- |
-|[Working With Data: APIs][1-1O]                 | Unit 4 | Session 16 | [Link]() |
-|[Intro to Natural Language Processing][1-1P]    | Unit 4 | Session 17 | [Link]() |
-|[Intro to Time Series][1-1Q]                    | Unit 4 | Session 18 | [Link]() |
-|[Logistic Regression][1-1M]                     | Unit 4 | Session 19 | [Link]() |
-|[Final Project Presentations][1-1T]             | Unit 4 | Session 20 | [Link]() |
+|[Intro to Natural Language Processing][1-1P] | Unit 4 | Session 16 | [Part 1]() *Part 2 is first half of next lesson* |
+|[Working With Data: APIs][1-1O] | Unit 4 | Session 17 | [Link]() |
+|[Intro to Time Series][1-1Q] | Unit 4 | Session 18 | [Link]() |
+|[Logistic Regression][1-1M] | Unit 4 | Session 19 | [Link]() |
+|[Final Project Presentations][1-1T] | Unit 4 | Session 20 | [Link]() |
 
 [1-1A]: ./lessons/required/welcome-to-data-science/
 [1-1B]: ./lessons/required/development-environment/
