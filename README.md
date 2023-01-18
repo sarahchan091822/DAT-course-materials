@@ -90,7 +90,7 @@ Here is the schedule we will be following for our part time data science course:
 |[KNN / Classification][1-1L] | Unit 3 | Session 13 | [Link](https://generalassembly.zoom.us/rec/share/6ayxDP4ek-0OYQrv8_HnaMVwedLnUEqkpUSFfxBIptwVarmf9FMr1DmUomh5hfkP.aiE1HfrvolzWgpj9) Passcode: .4mqxuY! |
 | Modeling WrapUp & Review | Unit 3 | Session 15 | [Link](https://generalassembly.zoom.us/rec/share/kbGp8jdixyldikFBLP6Yi3LKwNOkyu-zhsUAy0E7wJEimdUrdzpe9cDDUNKnhWHA.efX4slrIRHYLXuMb) Passcode: dW9w^Z29 |
 |--- | --- | --- | --- |
-|[Intro to Natural Language Processing][1-1P] | Unit 4 | Session 16 | [Part 1]() *Part 2 is first half of next lesson* |
+|[Intro to Natural Language Processing][1-1P] | Unit 4 | Session 16 | [Part 1](https://generalassembly.zoom.us/rec/share/A-Kt2DxDbASu8OMByGlY7L2BZXIaYUUo_KCXPIJ3fjNao_xnFsbD0oIDPhkjR2AW.j-GqMKrgbE1BTs5H) Passcode: P98#&8Rl *Part 2 is first half of next lesson* |
 |[Working With Data: APIs][1-1O] | Unit 4 | Session 17 | [Link]() |
 |[Intro to Time Series][1-1Q] | Unit 4 | Session 18 | [Link]() |
 |[Logistic Regression][1-1M] | Unit 4 | Session 19 | [Link]() |
