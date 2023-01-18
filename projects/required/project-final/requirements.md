@@ -3,10 +3,10 @@
 > Final Project Details
 
 | Deliverables | Due Date |
-| [Part 1: Proposal](#proposal) | 1/19 |
-| [Part 2: Brief](#eda) | 1/26 |
-| [Part 3: Findings](#notebook) | 2/09 |
-| [Part 4: Presentation](#presentation) | 2/09 |
+| [Part 1: Proposal](#proposal) | 1/19 
+| [Part 2: Brief](#eda) | 1/26 
+| [Part 3: Findings](#notebook) | 2/09 
+| [Part 4: Presentation](#presentation) | 2/09 
 
 ---
 
