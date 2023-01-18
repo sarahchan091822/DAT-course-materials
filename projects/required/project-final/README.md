@@ -43,10 +43,10 @@ You will get structured guidance and designated time to work throughout the cour
 - Project 2: Due @ End of Unit 2
 - Project 3: Due @ End of Unit 3
 - Project 4 (Final):
-    - Proposal + Dataset: Due @ End of Unit 2
-    - Initial EDA Brief: Due @ End of Unit 3
-    - Technical Report: Due @ End of Unit 4
-    - Presentation: Due @ End of Unit 4
+    - Proposal + Dataset: Due @ 1/19
+    - Initial EDA Brief: Due @ 1/26
+    - Technical Report: Due @ 2/09
+    - Presentation: Due @ 2/09
 
 ---
 
