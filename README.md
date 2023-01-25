@@ -91,7 +91,7 @@ Here is the schedule we will be following for our part time data science course:
 | Modeling WrapUp & Review | Unit 3 | Session 15 | [Link](https://generalassembly.zoom.us/rec/share/kbGp8jdixyldikFBLP6Yi3LKwNOkyu-zhsUAy0E7wJEimdUrdzpe9cDDUNKnhWHA.efX4slrIRHYLXuMb) Passcode: dW9w^Z29 |
 |--- | --- | --- | --- |
 |[Intro to Natural Language Processing][1-1P] | Unit 4 | Session 16 | [Part 1](https://generalassembly.zoom.us/rec/share/A-Kt2DxDbASu8OMByGlY7L2BZXIaYUUo_KCXPIJ3fjNao_xnFsbD0oIDPhkjR2AW.j-GqMKrgbE1BTs5H) Passcode: P98#&8Rl [Part 2](https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/6E0oneMHjX4UdVGuT4hefO6A4Sl2SSCBVFX---KSs01AuZVQdHlQt7oZp07oiBTn.NUnE7MncIaU6yrIE__;!!GgcXpDZ2N9l6uyZJ!hkjdUXv7Ya4susyhBo-RQHgBg6QT-YT1mIZ7kcHaZKgPRF_lrLy7zOhPcsHdcCaOTQcU5JKvOX4EKjroIu3rC2Bskycx$) Passcode: P$Z5tU+K |
-|[Working With Data: APIs][1-1O] | Unit 4 | Session 17 | [Link]() |
+|[Working With Data: APIs][1-1O] | Unit 4 | Session 17 | [Link](https://generalassembly.zoom.us/rec/share/vW_EWVsz1dVsBkNiBVMxBdcMnmrfZ_4iueEcZXJM3yD0oDcSfmFiI8VzRKlSe8PU.aBsO44BCOHjrm6pp) Passcode: ne+Xw603 |
 |[Intro to Time Series][1-1Q] | Unit 4 | Session 18 | [Link]() |
 |[Logistic Regression][1-1M] | Unit 4 | Session 19 | [Link]() |
 |[Final Project Presentations][1-1T] | Unit 4 | Session 20 | [Link]() |
